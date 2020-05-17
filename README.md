@@ -1,6 +1,6 @@
 ## Status
 
-[![Build Status Travis](https://travis-ci.org/prithvisekhar/VehicalDiagnosticAlgo.svg?branch=master)](https://travis-ci.org/prithvisekhar/VehicalDiagnosticAlgo) 
+[![Build Status](https://travis-ci.org/Novus-007/Low-Cost-Vehicle-Diagnostics-and-Prognosis.svg?branch=master)](https://travis-ci.org/Novus-007/Low-Cost-Vehicle-Diagnostics-and-Prognosis)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/850d420d714c4c5a899b0de26e00b09d)](https://www.codacy.com/manual/prithvisekhar/VehicalDiagnosticAlgo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prithvisekhar/VehicalDiagnosticAlgo&amp;utm_campaign=Badge_Grade)
 
